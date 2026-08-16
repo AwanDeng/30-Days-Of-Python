@@ -1,0 +1,2 @@
+Day 16: Learning file handling in Python!
+Python makes working with files easy.
